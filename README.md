@@ -28,14 +28,13 @@
 
 Demo:
 
+https://github.com/user-attachments/assets/8991a953-8164-4a14-a0dd-75e75688aad0
 
-https://github.com/user-attachments/assets/9cbcd302-5900-4677-8973-104b33dd7756
+<img width="1512" height="946" alt="1" src="https://github.com/user-attachments/assets/728dfc51-cdca-49db-a776-bceb021d0254" />
+<img width="1510" height="943" alt="2" src="https://github.com/user-attachments/assets/5ccf1d96-8cfa-4c9b-bcae-9bfe705dc824" />
+<img width="1511" height="948" alt="3" src="https://github.com/user-attachments/assets/a03c6109-8a6f-49ff-934c-e792b00b6231" />
+<img width="1512" height="944" alt="4" src="https://github.com/user-attachments/assets/ab996abb-665d-4f13-8f7d-fbcda142c5b3" />
+<img width="1512" height="947" alt="5" src="https://github.com/user-attachments/assets/0e2a142a-795e-44ed-bda5-3941c494d325" />
+<img width="1512" height="945" alt="6" src="https://github.com/user-attachments/assets/b164ffe5-ca1e-4d2b-bdd6-3971316cca01" />
+<img width="417" height="219" alt="Brainrot" src="https://github.com/user-attachments/assets/f7a53004-20b7-4ca3-8c76-2947fe618ffd" />
 
-
-<img width="1512" height="946" alt="1" src="https://github.com/user-attachments/assets/88bac980-380c-4453-ac44-0b5aa4f02e33" />
-<img width="1510" height="943" alt="2" src="https://github.com/user-attachments/assets/654c3275-1f26-4847-a732-66d6ca13d246" />
-<img width="1511" height="948" alt="3" src="https://github.com/user-attachments/assets/12dfdd25-3992-4242-85c2-9b1a0360eeab" />
-<img width="1512" height="944" alt="4" src="https://github.com/user-attachments/assets/c299525a-f8c1-4af8-8dcb-d470bac22ba4" />
-<img width="1512" height="947" alt="5" src="https://github.com/user-attachments/assets/84be8bd8-abdc-4e81-ae61-bf924214862b" />
-<img width="1512" height="945" alt="6" src="https://github.com/user-attachments/assets/9586ce72-b84b-428c-9c5c-8622e00589f6" />
-<img width="1511" height="949" alt="7" src="https://github.com/user-attachments/assets/9cc00cf5-7e09-4066-903b-2c5b0df3717b" />
